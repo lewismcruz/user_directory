@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Robert Smith",
+        "image": "URI",
+        "occupation": "Engineer",
+        "location": "Denver, CO",
+        "e-mail": "r.smith@email.com",
+        "department": "Research & Development",
+        "startDate": "09/23/2006"
+    },
+    {
+        "id": 2,
+        "name": "Jonathan Gibson",
+        "image": "URI",
+        "occupation": "Accountant",
+        "location": "Austin, TX",
+        "e-mail": "j.gibson@email.com",
+        "department": "Accounting",
+        "startDate": "02/18/2010"
+    },
+    {
+        "id": 3,
+        "name": "Rachel Adams",
+        "image": "URI",
+        "occupation": "VP Operations",
+        "location": "Denver, CO",
+        "e-mail": "r.adams@email.com",
+        "department": "Operations",
+        "startDate": "10/01/2003"
+    },
+    {
+        "id": 4,
+        "name": "Jaime Gomez",
+        "image": "URI",
+        "occupation": "Engineer",
+        "location": "Denver, CO",
+        "e-mail": "j.gomez@email.com",
+        "department": "Research & Development",
+        "startDate": "01/7/2012"
+    },
+    {
+        "id": 5,
+        "name": "Mary Wolf",
+        "image": "URI",
+        "occupation": "HR Director",
+        "location": "Denver, CO",
+        "e-mail": "r.smith@email.com",
+        "department": "HR",
+        "startDate": "03/15/2019"
+    }
+]
