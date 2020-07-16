@@ -4,15 +4,26 @@ import "./index.css";
 import App from './App';
 //import * as serviceWorker from './serviceWorker';
 
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
 
 
-
+// Try this also to see difference:
+/*
+ReactDOM.render(
+  Render.createElement(DataSheet, {
+    headers: headers,
+    initialData: data,
+  }),
+  document.getElementById("App" or "root")
+);
+*/
 
 
 

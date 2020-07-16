@@ -17,11 +17,3 @@ let DataSheet = React.createClass({
     }
 });
 
-
-ReactDOM.render(
-    Render.createElement(DataSheet, {
-        headers: headers,
-        initialData: data,
-    }),
-    document.getElementById("App")
-);
