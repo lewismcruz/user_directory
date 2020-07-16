@@ -1,7 +1,3 @@
-const headers = [
-    "id", "name", "occupation", "location", "e-mail", "department", "startDate"
-];
-
 const employeeData = [
     ["1", "Robert Smith", "Engineer", "Denver, CO", "r.smith@email.com", "R&D", "09/23/2006"],
     ["2", "Jonathan Gibson", "Accountant", "Austin, TX", "j.gibson@email.com", "Accounting", "02/18/2010"],
