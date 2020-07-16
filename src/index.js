@@ -7,23 +7,10 @@ import App from './App';
 
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById("root")
+  <App />,
+    document.getElementById("root")
 );
 
-
-// Try this also to see difference:
-/*
-ReactDOM.render(
-  Render.createElement(DataSheet, {
-    headers: headers,
-    initialData: data,
-  }),
-  document.getElementById("App" or "root")
-);
-*/
 
 
 
